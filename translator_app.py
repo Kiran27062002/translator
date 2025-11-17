@@ -22,7 +22,7 @@ languages = {
     "Chinese (Simplified)": "zh-Hans",
     "Japanese": "ja",
     "Korean": "ko",
-    "Urdu": :"ur"
+    "Urdu": "ur"
 }
 
 # ------------------------------
