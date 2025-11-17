@@ -21,7 +21,8 @@ languages = {
     "Hindi": "hi",
     "Chinese (Simplified)": "zh-Hans",
     "Japanese": "ja",
-    "Korean": "ko"
+    "Korean": "ko",
+    "Urdu": :"ur"
 }
 
 # ------------------------------
